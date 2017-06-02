@@ -1,2 +1,0 @@
-# yadisk-duplicate
-yadisk-duplicate
