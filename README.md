@@ -1,4 +1,4 @@
-# yadisk-duplicate [![Build Status](https://travis-ci.org/FrolovYan/yadisk-replica.svg?branch=master)](https://travis-ci.org/FrolovYan/yadisk-replica)
+# yadisk-duplicate [![Build Status](https://travis-ci.org/yadisk-ops/yadisk-duplicate.svg?branch=master)](https://travis-ci.org/yadisk-ops/yadisk-duplicate)
 Данный репозиторий содержит часть всеобщего проекта Yadisk - Operations. 
 
 # Задачи
