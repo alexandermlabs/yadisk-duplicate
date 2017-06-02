@@ -1,8 +1,7 @@
-# yadisk-duplicate [![Build Status](https://travis-ci.org/yadisk-ops/yadisk-duplicate.svg?branch=master)](https://travis-ci.org/yadisk-ops/yadisk-duplicate)
-Данный репозиторий содержит часть всеобщего проекта Yadisk - Operations. 
+# yadisk-clean [![Build Status](https://travis-ci.org/yadisk-ops/yadisk-clean.svg?branch=master)](https://travis-ci.org/yadisk-ops/yadisk-clean)
 
-# Задачи
-Задача, которую решает проект репозитория заключается в поиске дубликатов файлов/директорий на яндекс диске. 
+# team6_yadisk-clean
+Домашнее задание № 3.
 
-# Инструкции для сборки
-Сборка проекта осуществляется при помощи кросплатформенной утилиты автоматической сборки CMake.
+# Цель
+Реализовать метод удаления копиий данных с диска, основанный на методе поиска копий данных на диске.
