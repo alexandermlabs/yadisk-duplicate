@@ -21,6 +21,7 @@ namespace ops
 				if(it->first != it->second[i].path)
 				{
 					client.remove(it->second[i].path, true);
+					std::cout << "Duplicate if founded and deleted!";
 				}
 		}
 	}
